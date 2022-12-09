@@ -25,3 +25,5 @@ Version.cs
 Version.h
 Version.cpp
 *.suo
+/roadmap/.vs/ProjectEvaluation
+/roadmap/.vs/roadmap/DesignTimeBuild
