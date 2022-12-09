@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ogk/NmPTa6qtu0HDXLtW+Y4eU1b6XlBiiEPyChWHnsyywe1D06JhQ7YXK0MnJkZT8Tz0wvEePSUD0IvEf3z3Mg==",
+  "success": true,
+  "projectFilePath": "D:\\estudos\\roadmap\\RoadMapLearning\\roadmap\\Getha.API\\Getha.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rerum\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
