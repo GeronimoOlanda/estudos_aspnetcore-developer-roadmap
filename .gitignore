@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/roadmap/Getha.API/bin/Debug/net6.0
+/roadmap/Getha.API/obj/Debug/net6.0
+/roadmap/Getha.API/obj/staticwebassets.pack.sentinel
