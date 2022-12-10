@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GethaApi", "GethaApi", "{F947BA62-C266-4F88-A18A-255531DF0413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getha.API", "Getha.API\Getha.API.csproj", "{6BCEE954-7233-470A-983D-518C008A2371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Getha.API", "Getha.API\Getha.API.csproj", "{6BCEE954-7233-470A-983D-518C008A2371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getha.API.Entities", "Getha.API.Entities\Getha.API.Entities.csproj", "{B238D143-6CCB-4D60-AF86-9034F7083103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +19,17 @@ Global
 		{6BCEE954-7233-470A-983D-518C008A2371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BCEE954-7233-470A-983D-518C008A2371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BCEE954-7233-470A-983D-518C008A2371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B238D143-6CCB-4D60-AF86-9034F7083103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B238D143-6CCB-4D60-AF86-9034F7083103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B238D143-6CCB-4D60-AF86-9034F7083103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B238D143-6CCB-4D60-AF86-9034F7083103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6BCEE954-7233-470A-983D-518C008A2371} = {F947BA62-C266-4F88-A18A-255531DF0413}
+		{B238D143-6CCB-4D60-AF86-9034F7083103} = {F947BA62-C266-4F88-A18A-255531DF0413}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C35C3F4D-75A3-4961-979B-C99D0B68EC9E}
